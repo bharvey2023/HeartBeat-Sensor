@@ -8,7 +8,7 @@ This project uses an **Arduino-based heartbeat sensor** to measure beats per min
 - Data cleaning and filtering in Python to remove noise  
 - Statistical analysis: average, minimum, maximum BPM  
 - Graphical visualization of heart rate trends over time  
-- Optional save/try-again workflow for user interaction  
+- Optional save/try-again workflow for user interaction (Feature will be added later)
 
 ## Tools & Technologies
 - **Programming Languages:** Arduino C, Python  
