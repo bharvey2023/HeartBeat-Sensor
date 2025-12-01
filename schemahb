@@ -1,0 +1,13 @@
++----------------+----------------------+-------------------------+
+|   Column       |        Type          |        Attributes       |
++----------------+----------------------+-------------------------+
+| id             | INT                  | PRIMARY KEY, AUTO_INC   |
+| username       | VARCHAR(255)         | NOT NULL                |
+| email          | VARCHAR(255)         | NULLABLE                |
+| age            | INT                  | NOT NULL                |
+| phonenumber    | VARCHAR(255)         | NULLABLE                |
+| weight         | INT                  | NOT NULL                |
+| height_in      | INT                  | NOT NULL                |
+| avg_hb         | DECIMAL(10,2)        | NOT NULL                |
+| med_hb         | DECIMAL(10,2)        | NOT NULL                |
++----------------+----------------------+-------------------------+
